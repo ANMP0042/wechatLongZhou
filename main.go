@@ -14,8 +14,11 @@ import (
 )
 
 const (
-	token    = "ABBwEaIDAAABAAAAAAC2tVDQfy2gZ1vGzDWiZBAAAAClvZTgDOvAQqLcQuQHgdxZIaq69Ppps_9kymW5DaboAnJM8neqYe4-n5NhmcFDdTTQRl-1LAzcaLkt5RcrAMUTymV6TvDoLM_WnrbLcgY3mesmSNstEMB6aUaTw-OsjQDNrHn0PN6O7zydYdTKje2e"
+	// 抓包获取session_token 替换
+	token = "ABBwEaIDAAABAAAAAAC2tzxxxxxxxx"
+	// 最大分数 1:1
 	maxScore = 10000
+	// 活动id
 	activeId = 1000003
 )
 
