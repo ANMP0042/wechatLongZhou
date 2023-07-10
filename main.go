@@ -15,11 +15,11 @@ import (
 
 const (
 	// 抓包获取session_token 替换
-	token = "ABBwEaIDAAABAAAAAAC2tzxxxxxxxx"
+	token = ""
 	// 最大分数 1:1
-	maxScore = 10000
+	maxScore = 11000
 	// 活动id
-	activeId = 1000003
+	activeId = 1000005
 )
 
 func main() {
